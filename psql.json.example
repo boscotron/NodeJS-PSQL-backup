@@ -1,0 +1,4 @@
+[{
+    "name": "instance_db_name",
+    "db": "postgres://postgres:password@localhost:5432/db_name"
+}]
